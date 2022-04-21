@@ -9,6 +9,8 @@ https://oss-augur.readthedocs.io/en/dev/development-guide/toc.html
 Grimoirelab
 https://chaoss.github.io/grimoirelab-tutorial/
 
+![image](https://user-images.githubusercontent.com/60316903/164538601-1b74a3fd-dade-4c6c-9c62-0c0db2ef8b39.png)
+
 
 Microstask 1:
 Work on any Augur Issue that's Open
